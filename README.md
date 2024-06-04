@@ -8,10 +8,10 @@ LangChain Doc에 나와있는 LLM 챗봇 구축 튜토리얼 예제를 따라한
    
   `python -m venv .venv`
 
-1. 환경 변수 파일 설정:
+2. 환경 변수 파일 설정:
    
   `.env.example => .env` 변경 및 API KEY 입력
 
-1. 실행:
+3. 실행:
 
   `chatbot.ipynb`에 파이썬 커널 등록 및 실행
